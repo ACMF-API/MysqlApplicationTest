@@ -1,0 +1,26 @@
+{
+  "generator-jhipster": {
+    "applicationType": "monolith",
+    "baseName": "MysqlApplicationTest",
+    "buildTool": "maven",
+    "cacheProvider": "hazelcast",
+    "clientFramework": null,
+    "clientPackageManager": null,
+    "clientTheme": null,
+    "creationTimestamp": 1736488765363,
+    "databaseType": "sql",
+    "enableHibernateCache": false,
+    "enableTranslation": false,
+    "entities": [],
+    "jhipsterVersion": "8.8.0",
+    "jwtSecretKey": "YjQyMmIxNzdhZWQzYTY3MDY2NTNhYzVmNzY1MjIyNzVlZDk3ZmMxZTA3ZTE3NzQ5MmNhZWUwMmEyYWM4YTE1NTY1OTNiNGRlMWFhNDE4NDdlMTI4OGFiYTFhYzllNTM5YmM0ZGMwYjliMDRiMDg0ZTM0NjZiZDhmZjgxM2RjMTI=",
+    "microfrontend": false,
+    "nativeLanguage": "en",
+    "otherLanguages": null,
+    "prodDatabaseType": "mysql",
+    "reactive": false,
+    "serviceDiscoveryType": null,
+    "testFrameworks": null,
+    "websocket": null
+  }
+}
